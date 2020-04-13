@@ -5,3 +5,5 @@ Jhony Garcia
 Modificación archivo inicial.
 
 Modificación del archivo desde GitHub.
+
+Cambio recibido desde GitHub.
